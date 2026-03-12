@@ -37,6 +37,13 @@ You control a tank navigating a walled map while fending off waves of enemy tank
 
 ---
 
+## Demo
+[![Demo Video](https://img.youtube.com/vi/hwToayzrIVM/0.jpg)](https://youtube.com/watch?v=hwToayzrIVM)
+
+*Click the thumbnail to watch the demo*
+
+---
+
 ## Requirements
 
 - Java 8 (Oracle JDK) (Because of their bundling of JavaFX, 8u441 or earlier should work, but 8u431 is recommended)
